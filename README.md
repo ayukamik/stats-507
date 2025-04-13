@@ -6,4 +6,4 @@ Theme: Email classification using Python
 
 Files: 
   - FinalProject_AyukaMikami.pdf: 2 page summary paper of the project.
-  - FinalProject_AyukaMikami.ipynb: Python code for the project.
+  - FinalProject_AyukaMikami.ipynb: Python code of the project.
